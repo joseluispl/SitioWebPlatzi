@@ -28,3 +28,34 @@ C:\Users\IO\Documents\Platzi - Web Apps_Logic Apps\Platziwebsite\obj\Debug\net8.
 C:\Users\IO\Documents\Platzi - Web Apps_Logic Apps\Platziwebsite\obj\Debug\net8.0\Platziwebsite.pdb
 C:\Users\IO\Documents\Platzi - Web Apps_Logic Apps\Platziwebsite\obj\Debug\net8.0\Platziwebsite.genruntimeconfig.cache
 C:\Users\IO\Documents\Platzi - Web Apps_Logic Apps\Platziwebsite\obj\Debug\net8.0\ref\Platziwebsite.dll
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\bin\Debug\net8.0\appsettings.json
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\bin\Debug\net8.0\Platziwebsite.staticwebassets.runtime.json
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\bin\Debug\net8.0\Platziwebsite.exe
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\bin\Debug\net8.0\Platziwebsite.deps.json
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\bin\Debug\net8.0\Platziwebsite.runtimeconfig.json
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\bin\Debug\net8.0\Platziwebsite.dll
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\bin\Debug\net8.0\Platziwebsite.pdb
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\obj\Debug\net8.0\Platziwebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\obj\Debug\net8.0\Platziwebsite.AssemblyInfoInputs.cache
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\obj\Debug\net8.0\Platziwebsite.AssemblyInfo.cs
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\obj\Debug\net8.0\Platziwebsite.csproj.CoreCompileInputs.cache
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\obj\Debug\net8.0\Platziwebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\obj\Debug\net8.0\Platziwebsite.RazorAssemblyInfo.cache
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\obj\Debug\net8.0\Platziwebsite.RazorAssemblyInfo.cs
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\obj\Debug\net8.0\Platziwebsite.sourcelink.json
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\obj\Debug\net8.0\staticwebassets\msbuild.Platziwebsite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\obj\Debug\net8.0\staticwebassets\msbuild.build.Platziwebsite.props
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Platziwebsite.props
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Platziwebsite.props
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\obj\Debug\net8.0\scopedcss\bundle\Platziwebsite.styles.css
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\obj\Debug\net8.0\scopedcss\projectbundle\Platziwebsite.bundle.scp.css
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\obj\Debug\net8.0\Platziwebsite.dll
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\obj\Debug\net8.0\refint\Platziwebsite.dll
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\obj\Debug\net8.0\Platziwebsite.pdb
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\obj\Debug\net8.0\Platziwebsite.genruntimeconfig.cache
+C:\Users\IO\Documents\PLATZI\SitioWebPlatzi\Platziwebsite\obj\Debug\net8.0\ref\Platziwebsite.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Platziwebsite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c6b2558dd215438904d92e8ec54bd7ff989a4a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Platziwebsite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Platziwebsite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
